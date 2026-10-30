@@ -50,7 +50,7 @@ Interface em HTML, CSS e JavaScript. Seleção de exemplos ou arquivos locais, c
 
 Execute `python3 -m http.server 8000` nesta pasta e abra http://localhost:8000. Testes web: `node --test core.test.mjs` — 4 aprovados. Python: 10 testes aprovados novamente em 30/10/2026. No navegador da prévia técnica foram verificados: simulação vazia, dez exemplos, dois conflitos resolvidos com destino preexistente, arquivo fictício local e resumo JSON com dez operações. Iframe de 390 px, sem rolagem horizontal.
 
-**Publicação pendente:** criação de repositório público bloqueada pela revisão automática por exigir autorização no corpo da conversa. Código e documentação estão preparados; nenhuma URL pública nova é apresentada como existente. Repositório pretendido: `matheuz-code/organizador-downloads`.
+Demonstração pública: https://matheuz-code.github.io/organizador-downloads/ — validada em 30/10/2026 com seleção vazia, exemplos, categorias e dois conflitos resolvidos. Não persiste nomes após recarga por privacidade.
 
 ## Captura da prévia técnica
 
